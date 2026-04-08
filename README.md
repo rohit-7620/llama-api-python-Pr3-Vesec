@@ -13,11 +13,11 @@ It is generated with [Stainless](https://www.stainless.com/).
 
 The REST API documentation can be found on [llama.developer.meta.com](https://llama.developer.meta.com/docs). The full API of this library can be found in [api.md](api.md).
 
-## Installation
+⚙️ Installation
 
-```sh
+To install the required dependency, run:
+
 pip install llama-api-client
-```
 
 ## Usage
 
